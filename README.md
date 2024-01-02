@@ -7,3 +7,7 @@
 `opuntia` is a basic set of tools for traffic shaping for erlang and elixir
 
 It implements the [token bucket algorithm](https://en.wikipedia.org/wiki/Token_bucket).
+
+# Warning
+
+Repo moved to https://github.com/esl/opuntia/
